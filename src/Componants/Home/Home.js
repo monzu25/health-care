@@ -1,9 +1,19 @@
 import React from 'react';
+import DetailsView from '../DetailsView/DetailsView';
+import Header from '../Header/Header';
+import Services from '../Services/Services';
+
 
 const Home = () => {
+
+
     return (
         <div>
-            <h1>This is a Health care Site</h1>
+            <Header></Header>
+            <Services></Services>
+            {/* <ExtraCss></ExtraCss> */}
+            <DetailsView></DetailsView>
+
         </div>
     );
 };
