@@ -32,9 +32,13 @@ const Signup = () => {
 
 
 
+
+
+
     return (
         <>
             <section className="vh-auto" >
+
                 <div className="container py-5  h-100">
                     <div className="row d-flex justify-content-center align-items-center h-100">
                         <div className="col-12 col-md-8 col-lg-6 col-xl-5">
@@ -51,9 +55,7 @@ const Signup = () => {
                                     <div className="form-outline mb-4">
                                         <input value={password} onChange={e => setPassword(e.target.value)} name="password" type="password" placeholder="Password" id="password" className="form-control form-control-lg" />
                                     </div>
-                                    <div className="form-outline mb-4">
-                                        <input value={password} onChange={e => setPassword(e.target.value)} type="password" placeholder="Retype-Password" id="retype-password" className="form-control form-control-lg" />
-                                    </div>
+
 
                                     <div className="d-flex  justify-content-sm-between mb-4">
                                         <button onClick={onSignup} className="btn btn-primary w-25 h-25 ">  {loading ? 'Creating user ...' : 'Signup'}</button>

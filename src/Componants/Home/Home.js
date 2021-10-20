@@ -1,5 +1,4 @@
 import React from 'react';
-import DetailsView from '../DetailsView/DetailsView';
 import Services from '../Services/Services';
 import Slider from './Slider/Slider';
 

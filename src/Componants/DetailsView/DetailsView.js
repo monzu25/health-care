@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Card, Col, Nav, Row } from 'react-bootstrap';
+
 import { useParams } from 'react-router';
-import { Link } from 'react-router-dom';
-import useDataHooks from '../../DataHoocks/DataHooks';
+
+
 
 const DetailsView = () => {
 
@@ -34,7 +34,7 @@ const DetailsView = () => {
                     <h3>{service?.title}</h3>
                     <p className=" text-start">{service?.description}</p>
                     <h5>Fee:$ {service?.price}</h5>
-                    <Nav.Link as={Link} to="/login"> <button className="btn btn-info display-inline-block mt-3">Book Now</button></Nav.Link>
+                    <button className="btn btn-info display-inline-block mt-3">Book Now</button>
                 </div>
                 <div className="col-md-6">
                     <img className="rounded" src={service?.img} alt="" />

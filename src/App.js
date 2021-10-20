@@ -13,6 +13,7 @@ import AuthProvider from './Context/AuthProvider';
 import Header from './Componants/Header/Header';
 import Signup from './Componants/Signup/Signup';
 import Login from './Componants/Login/Login';
+import ExpertTips from './Componants/ExpertTips/ExpertTips';
 
 
 
@@ -35,15 +36,19 @@ function App() {
             <Route path="/services">
               <Services></Services>
             </Route>
-            <Route path="/detail_service/:serviceId">
-              <DetailsView></DetailsView>
-            </Route>
+
             <Route path="/profile">
               <Profle></Profle>
             </Route>
             <Route path="/blog">
               <Blog></Blog>
             </Route>
+            <PrivateRoute path="/detail_service/:serviceId">
+              <DetailsView></DetailsView>
+            </PrivateRoute>
+            <PrivateRoute path="/experttips">
+              <ExpertTips></ExpertTips>
+            </PrivateRoute>
             <PrivateRoute path="/contact">
               <Contact></Contact>
             </PrivateRoute>
