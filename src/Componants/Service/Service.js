@@ -3,9 +3,9 @@ import { Card, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Service.css'
 
-const Service = (props) => {
+const Service = ({ service }) => {
 
-    const { id, title, description, img } = props.service;
+    const { id, title, description, img } = service;
 
     return (
 
@@ -19,7 +19,7 @@ const Service = (props) => {
                     </Card.Text>
                     <div className="btn-service">
                         <Link to={`/detail_service/${id}`}>
-                            <button type="button" class="btn btn-outline-secondary">Read More  </button>
+                            <button type="button" className="btn btn-outline-secondary">Read More  </button>
                         </Link>
                     </div>
                 </Card.Body>

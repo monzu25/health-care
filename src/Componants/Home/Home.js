@@ -1,7 +1,7 @@
 import React from 'react';
 import DetailsView from '../DetailsView/DetailsView';
-import Header from '../Header/Header';
 import Services from '../Services/Services';
+import Slider from './Slider/Slider';
 
 
 const Home = () => {
@@ -9,10 +9,11 @@ const Home = () => {
 
     return (
         <div>
-            <Header></Header>
+            {/* <Header></Header> */}
+            <Slider></Slider>
             <Services></Services>
             {/* <ExtraCss></ExtraCss> */}
-            <DetailsView></DetailsView>
+            {/* <DetailsView></DetailsView> */}
 
         </div>
     );

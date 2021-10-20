@@ -3,54 +3,63 @@
         "id": 101,
         "title": "Pediatric Clinic",
         "description": "We have been monitoring the COVID-19 outbreak that has been spreading throughout the world over the past few months. While there has been a lot of media attention regarding this outbreak, we want to first of all urge our patients and families to try and remain calm! We are still learning about this particular strain of virus, but as of right now, studies appear to be showing that it is generally not serious in children or young adults. During this time, in order to protect our patients and staff while still caring for patients who need to be seen, we are changing our clinic policy to the following: if your child is sick, please do not bring other children to the clinic who do not have an appointment, and please limit the number of adults accompanying the child to just one; any additional family members will be asked to wait in their car. Below are some answers to frequently asked questions as well as links to helpful resources.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio1.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio1.jpg",
+        "price": 500
     },
     {
         "id": 102,
         "title": "Dental Clinic",
         "description": "Scaling and cleaning involves the removal of built-up debris from the teeth. This may include food particles, soft plaque (bacterial growth) or hard calculus (caused by the continual accumulation of plaque and minerals from saliva, sometimes called tartar). Plaque and calculus are the main causes of gum disease. The dentist or hygienist then cleans and polishes your teeth using a rotating brush with a polishing paste. This helps treat and prevent gum disease.You will be given tailored instructions on how to keep up your oral hygiene between appointments, as this is important to help maintain healthy gums.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio2.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio2.jpg",
+        "price": 345
     },
     {
         "id": 103,
         "title": "General Surgery",
         "description": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties.A general surgeon has specialized knowledge and experience related to the diagnosis, preoperative, operative, and postoperative management, including the management of complications, in nine primary components of surgery, all of which are essential to the education of a broadly based surgeon",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio3.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio3.jpg",
+        "price": 450
     },
     {
         "id": 104,
         "title": "Physiotherapy",
         "description": "Physiotherapy helps to restore movement and function when someone is affected by injury, illness or disability. It can also help to reduce your risk of injury or illness in the future.It takes a holistic approach that involves the patient directly in their own care.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio4.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio4.jpg",
+        "price": 480
     },
     {
         "id": 105,
         "title": "Emergency Services",
         "description": "If you get very sick or badly hurt and need help right away, you should use emergency medical services. These services use specially trained people and specially equipped facilities.You may need care in the hospital emergency room (ER). Doctors and nurses there treat emergencies, such as heart attacks and injuries. For some emergencies, you need help where you are. Emergency medical technicians, or EMTs, do specific rescue jobs. They answer emergency calls and give basic medical care. Some EMTs are paramedics - they have training to do medical procedures on site. They usually take you to the ER for more care.If you or someone you know needs emergency care, go to your hospital's emergency room. If you think the problem is life-threatening, call 911.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio5.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio5.jpg",
+        "price": 345
     },
     {
         "id": 106,
         "title": "Pregnancy Care",
         "description": "Prenatal care helps decrease risks during pregnancy and increases the chance of a safe and healthy delivery. Regular prenatal visits can help your doctor monitor your pregnancy and identify any problems or complications before they become serious. Babies born to mothers who lack prenatal care have triple the chance of being born at a low birth weight. Newborns with low birth weight are five times more likely to die than those whose mothers received prenatal care.Prenatal care ideally starts at least three months before you begin trying to conceive. Some healthy habits to follow during this period include:",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio6.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio6.jpg",
+        "price": 340
     },
     {
         "id": 107,
         "title": "Cancer Care",
         "description": "Radiation therapy (also called radiotherapy) is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used in x-rays to see inside your body, as with x-rays of your teeth or broken bones.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio7.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio7.jpg",
+        "price": 250
     },
     {
         "id": 108,
         "title": "Occupational Therapy",
         "description": "Occupational therapy (OT) is a branch of health care that helps people of all ages who have physical, sensory, or cognitive problems. OT can help them regain independence in all areas of their lives. Occupational therapists help with barriers that affect a person's emotional, social, and physical needs.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio8.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio8.jpg",
+        "price": 550
     },
     {
         "id": 109,
         "title": "Ward",
         "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue.",
-        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio9.jpg"
+        "img": "http://kamleshyadav.com/healthcare/images/portfolio/portfolio9.jpg",
+        "price": 375
     }
 ]
